@@ -10,6 +10,6 @@ Requires Boost:ASIO, FFMPEG, and TagLib.
 
 Further details at http://choonz.org.
 
-Please bear with me while I actually get things organised - this is very much a workj in progress but don't hesitate to contact choonz at choonz.org if you have any questions or would like to get involved in the project.
+Please bear with me while I actually get things organised - this is very much a work in progress but don't hesitate to contact choonz at choonz.org if you have any questions or would like to get involved in the project.
 
 Thanks
